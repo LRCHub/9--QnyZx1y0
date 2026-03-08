@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Slime Mafia",
+  "base_artist": "Jahxncho",
+  "createdAt": "2026-03-08T06:00:10.253422Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Real Slime (performed by Lil Keed)",
+      "artist": "Lil Keed feat. Lil Yachty & Zaytoven",
+      "has_synced": true,
+      "path": "select/01_Real_Slime_(performed_by_Lil_Keed)_Lil_Keed_feat._Lil_Yachty_&_Zaytoven.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Real Slime",
+      "artist": "Lil Keed & ZAYTOVEN",
+      "has_synced": true,
+      "path": "select/02_Real_Slime_Lil_Keed_&_ZAYTOVEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Slime Dreams",
+      "artist": "YNW Bslime",
+      "has_synced": true,
+      "path": "select/03_Slime_Dreams_YNW_Bslime.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Slime Emotions",
+      "artist": "YNW Bslime",
+      "has_synced": true,
+      "path": "select/04_Slime_Emotions_YNW_Bslime.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Slime Mentality",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/05_Slime_Mentality_YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Slime Shit (feat. Yak Gotti)",
+      "artist": "Young Thug feat. Yak Gotti",
+      "has_synced": true,
+      "path": "select/06_Slime_Shit_(feat._Yak_Gotti)_Young_Thug_feat._Yak_Gotti.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Slime Shit (feat. Yak Gotti)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/07_Slime_Shit_(feat._Yak_Gotti)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's A Slime (feat. Lil Uzi Vert)",
+      "artist": "Young Thug feat. Young Stoner Life Records & Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/08_It's_A_Slime_(feat._Lil_Uzi_Vert)_Young_Thug_feat._Young_Stoner_Life_Records_&_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's A Slime (Feat. Lil Uzi Vert)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/09_It's_A_Slime_(Feat._Lil_Uzi_Vert)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mob Ties (feat. 24 Heavy & Slime Life Shawty)",
+      "artist": "Unfoonk",
+      "has_synced": true,
+      "path": "select/10_Mob_Ties_(feat._24_Heavy_&_Slime_Life_Shawty)_Unfoonk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Really Be Slime (feat. YNW Melly, Bslime & FN Da Dealer)",
+      "artist": "Young Stoner Life feat. Bslime, FN Da Dealer & YNW Melly",
+      "has_synced": true,
+      "path": "select/11_Really_Be_Slime_(feat._YNW_Melly,_Bslime_&_FN_Da_Dealer)_Young_Stoner_Life_feat._Bslime,_FN_Da_Dealer_&_YNW_Melly.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Really Be Slime (feat. Ynw Melly, Bslime & Fn Dadealer)",
+      "artist": "Young Stoner Life",
+      "has_synced": true,
+      "path": "select/12_Really_Be_Slime_(feat._Ynw_Melly,_Bslime_&_Fn_Dadealer)_Young_Stoner_Life.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Slime (feat. Lil Keed)",
+      "artist": "Tee Grizzley feat. Lil Keed",
+      "has_synced": false,
+      "path": "select/13_Slime_(feat._Lil_Keed)_Tee_Grizzley_feat._Lil_Keed.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Slime (feat. Lil Keed)",
+      "artist": "Tee Grizzley",
+      "has_synced": false,
+      "path": "select/14_Slime_(feat._Lil_Keed)_Tee_Grizzley.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "U Ain't Slime Enough (feat. Karlae & Duke)",
+      "artist": "Young Thug feat. Young Stoner Life, Duke & Karlae",
+      "has_synced": true,
+      "path": "select/15_U_Ain't_Slime_Enough_(feat._Karlae_&_Duke)_Young_Thug_feat._Young_Stoner_Life,_Duke_&_Karlae.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "U Ain't Slime Enough (Feat. Karlae & Duke)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/16_U_Ain't_Slime_Enough_(Feat._Karlae_&_Duke)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Walkin (feat. B Slime)",
+      "artist": "Lil Gotit feat. B Slime",
+      "has_synced": true,
+      "path": "select/17_Walkin_(feat._B_Slime)_Lil_Gotit_feat._B_Slime.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Walkin (feat. B Slime)",
+      "artist": "Lil Gotit;B Slime",
+      "has_synced": true,
+      "path": "select/18_Walkin_(feat._B_Slime)_Lil_Gotit;B_Slime.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "DOLLA SIGN SLIME (feat. Megan Thee Stallion)",
+      "artist": "Lil Nas X feat. Megan Thee Stallion",
+      "has_synced": true,
+      "path": "select/19_DOLLA_SIGN_SLIME_(feat._Megan_Thee_Stallion)_Lil_Nas_X_feat._Megan_Thee_Stallion.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Slime Mafia",
+      "artist": "Jahxncho",
+      "has_synced": false,
+      "path": "select/pl_01_Slime_Mafia_Jahxncho.txt"
+    }
+  ]
+}
